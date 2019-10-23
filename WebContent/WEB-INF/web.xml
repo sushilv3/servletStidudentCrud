@@ -15,7 +15,7 @@
 
 	<servlet-mapping>
 		<servlet-name>Home Servlet</servlet-name>
-		<url-pattern>/h</url-pattern>
+		<url-pattern>/student</url-pattern>
 	</servlet-mapping>
 	
 	
